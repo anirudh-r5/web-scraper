@@ -1,6 +1,6 @@
 {
   "name": "web-scraper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A web scraper",
   "main": "index.js",
   "scripts": {
