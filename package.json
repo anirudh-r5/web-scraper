@@ -24,6 +24,10 @@
   },
   "homepage": "https://github.com/anirudh-r5/web-scraper#readme",
   "dependencies": {
+    "koa": "^2.13.0",
+    "koa-router": "^9.4.0",
+    "koa-static": "^5.0.0",
+    "open": "^7.3.0",
     "puppeteer": "^5.3.1",
     "standard": "^14.3.4"
   }
